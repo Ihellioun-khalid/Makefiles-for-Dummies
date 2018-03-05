@@ -1,0 +1,4 @@
+*.o
+libraries/*.o
+cli_exec
+.DS_Store
